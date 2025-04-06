@@ -63,49 +63,19 @@ a:hover{
   background-color: var(--green_color);
   color:var(--Grey900);
 }
+  .attribution {
+     font-size: 11px;
+     text-align: center;
+     font-family: serif;
+     color:white;
+   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  /* .attribution { font-size: 11px; text-align: center; }
-  .attribution a { color: hsl(228, 45%, 44%); } */
+  #last_step{
+     color: hsl(228, 45%, 44%);
+     background-color:var(--Grey900);
+     margin: 0;
+     padding:0;
+text-decoration: underline;
+text-align:left;
+display: inline-block;
+}
